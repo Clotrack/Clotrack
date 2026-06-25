@@ -1,0 +1,39 @@
+# Ejemplos practicos sobre sintaxis y nomencaltura de MarkDown
+
+# Titulo 1 
+
+## Titulo 2 
+
+### Titulo 3
+
+*este techo esta en cursiva*
+
+**este techo esta en negrita**
+
+### Listas no ordenadas (viñetas)
+	- Primer punto
+	- Segundo punto
+		- Subpunto
+	* Primer punto
+	* Segundo punto
+		* Subpunto
+
+### Listas ordenadas
+	1. Primer punto
+	2. Segundo punto
+	3. Tercer punto
+	
+> Esto es una cita importante.
+
+### Esto es un separador (Fieldset?)
+--- 
+
+### Enlaces
+
+[Texto del enlace](https://ejemplo.com)
+
+### Codigo por si queremos anotar comandos o formulas
+
+`comando_rapido` 
+
+**Estado de ánimo**: ☹ / ☺ / ☠ / 
